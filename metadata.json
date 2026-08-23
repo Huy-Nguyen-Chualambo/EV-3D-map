@@ -1,0 +1,8 @@
+{
+  "name": "Bản Đồ 3D Nhà Máy Xe Điện (EV Factory 3D Map)",
+  "description": "Bản đồ 3D tương tác tỷ lệ 1:1 quy mô nhà máy sản xuất xe điện (EV Factory) với Three.js gồm 3 phân khu: Kho & Nhận hàng, Sản xuất (Hàn, Đúc, Lắp ráp U-shape), Thành phẩm & Xuất hàng, mô phỏng xe tự hành AMR, robot cánh tay và xuất mô hình 3D (OBJ/GLTF/USD).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
